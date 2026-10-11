@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,67211,t=>{"use strict";var e=t.i(71645),n=t.i(75679);t.s(["EventoVista",0,function({nombre:t}){return(0,e.useEffect)(()=>{(0,n.trackMeta)("ViewContent",{content_name:t,content_type:"product"})},[t]),null}])}]);
